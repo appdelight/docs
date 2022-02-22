@@ -145,7 +145,7 @@ isInt(18.3) // false
 
 # Task 7 (very basic - HTML/CSS): Make 1 HTML/CSS file linked that and put 1 .(dot) and center that to the screen plus I need black background and dot to white color
 
-![example](https://imgur.com/mPfpUgs.png)
+``` Example: https://imgur.com/mPfpUgs.png ```
 <br/>
 <br/>
 
